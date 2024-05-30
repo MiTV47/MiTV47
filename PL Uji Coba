@@ -84,9 +84,10 @@ https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
 ======================================INDOSIAR============================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="NATIONAL",INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="NATIONAL", 09.INDOSIAR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="NATIONAL",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/gala411/toettoet/main/indosiar.m3u8
 ====================================SCTV==============================================
